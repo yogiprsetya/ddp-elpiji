@@ -1,0 +1,8 @@
+- Dalam folder elpiji merukapan file API
+- Dalam folder elpiji-frontend merupakan tampilahn web apps
+-- Untuk keperluan production ada didalam folder dist
+-- File index.html hanya berjalan dengan baik pada server / virtual server
+-- Diluar folder dist merupakan file development
+-- Environment variable disimpan dalam file .env
+-- Development dapat dijalankan dengan perintah npm run dev (pastikan .env sudah disesuaikan)
+
